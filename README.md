@@ -3,3 +3,4 @@ This repository provides for classifier models using KNN, Decision Trees, Logari
 
 Decision Tree input file is Drug200.csv
 K Nearest Neighbours input file is Telecustomers1000t.csv
+Logistic Regression input file is Churndata.csv
